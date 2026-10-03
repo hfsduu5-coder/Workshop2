@@ -1,10 +1,12 @@
-# Academic & Professional Education Workshop — Cyber Team
+<p align="center"><img src="assets/cyberiq-logo.svg" width="86" alt="CyberIQ logo">&nbsp;&nbsp;<strong>CyberIQ</strong></p>
 
-An interactive Arabic presentation titled **آفاق التعليم الأكاديمي والمهني** developed for Cyber Team.
+# Academic & Professional Education Workshop — CyberIQ
+
+An interactive Arabic presentation titled **آفاق التعليم الأكاديمي والمهني** developed for CyberIQ.
 
 ## Overview
 
-A browser-based workshop experience focused on academic and professional education. The project uses an RTL slide interface with animated transitions and a dark Cyber Team visual identity.
+A browser-based workshop experience focused on academic and professional education. The project uses an RTL slide interface with animated transitions and a dark CyberIQ visual identity.
 
 ## Features
 
