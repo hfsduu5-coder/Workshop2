@@ -31,3 +31,9 @@ Clone or download the repository and open `index.html` in your browser. No packa
 ## Purpose
 
 Created as an educational presentation for workshops and student activities.
+## 👤 Developer
+
+**مقتدى الصدر جارالله خليف — Muqtada Al-Sadr Jarallah Khalif**  
+**الحنتوشي — Al-Hantooshi**  
+Developer • Team Leader & CEO of **CyberIQ**
+
